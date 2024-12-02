@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.33.0",
+    "axios": "^1.7.8",
+    "express": "^4.21.1",
+    "moralis": "^2.27.2"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "ts-node": "^10.9.2"
+  }
+}
